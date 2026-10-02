@@ -1,0 +1,25 @@
+:root {
+    font-size: 20px;
+}
+
+.parent {
+    width: 400px;
+}
+
+.child {
+    width: 50%;
+}
+
+.outer {
+    font-size: 2rem;
+}
+
+.inner {
+    font-size: 2em;
+}
+
+.viewport {
+    height: 50vh;
+    width: 100vw;
+    background-color: green;
+}

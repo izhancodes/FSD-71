@@ -1,0 +1,25 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    background-color: #0f1111;
+    height: 60px;
+    padding: 10px;
+    font-size: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+#search-button {
+    background-color: #f08804;
+}

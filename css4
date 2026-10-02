@@ -1,0 +1,31 @@
+header {
+    height: 60px;
+}
+
+.content {
+    height: 400px;
+}
+
+.content div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.content div:nth-child(1) {
+    background-color: rgba(255, 0, 0, 0.5);
+}
+
+.content div:nth-child(2) {
+    background-color: rgba(0, 255, 0, 0.5);
+}
+
+.content div:nth-child(3) {
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+footer {
+    height: 60px;
+}

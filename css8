@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.outer {
+    height: 300px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inner {
+    height: 100px;
+    width: 200px;
+}

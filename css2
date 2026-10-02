@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+body {
+    font-family: monospace;
+}
+
+#outer {
+    font-size: 25px;
+}
+
+#inner {
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p:nth-of-type(1) {
+    line-height: 1;
+}
+
+p:nth-of-type(2) {
+    line-height: 1.5;
+}
+
+p:nth-of-type(3) {
+    line-height: 2;
+}
